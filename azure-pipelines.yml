@@ -6,7 +6,7 @@
 pool:
   vmImage: 'ubuntu-latest'
 
-steps:
+jobs:
 - job: Firstjob
   timeoutInMinutes: 10
   steps:
